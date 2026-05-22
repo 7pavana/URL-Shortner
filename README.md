@@ -210,8 +210,7 @@ This project demonstrates a complete DevOps lifecycle:
 
 ---
 
-## 👨‍💻 Author
 
-Shetty
 
----
+
+
